@@ -38,6 +38,9 @@ useEffect(() => {
   <Link href="/about" className="text-gray-600 hover:text-gray-900 hover:scale-105 transition-all duration-200 ease-in-out">
     About
   </Link>
+  <Link href="/blog" className="text-gray-600 hover:text-gray-900 hover:scale-105 transition-all duration-200 ease-in-out">
+    Blog
+  </Link>
   <Link href="/contact" className="text-gray-600 hover:text-gray-900 hover:scale-105 transition-all duration-200 ease-in-out">
     Contact
   </Link>
@@ -70,6 +73,9 @@ useEffect(() => {
             <Link href="/about" className="block px-3 py-2 rounded-md text-gray-600 hover:text-gray-900 hover:bg-gray-100/50 transition-colors">
               About
             </Link>
+            <Link href="/blog" className="block px-3 py-2 rounded-md text-gray-600 hover:text-gray-900 hover:bg-gray-100/50 transition-colors">
+    Blog
+  </Link>
             <Link href="/contact" className="block px-3 py-2 rounded-md text-gray-600 hover:text-gray-900 hover:bg-gray-100/50 transition-colors">
               Contact
             </Link>
